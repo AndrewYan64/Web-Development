@@ -4,9 +4,11 @@ Where to start if you are into web development?
 
 The <a href="https://intellipaat.com/blog/web-development-tutorial/">'Internet Development Tutorial: A Beginner's Guide'</a> blog will help you acquire information on the following: 
 
+
 What is Web Development? 
 
 Web Development permits you to create sites that are facilitated through the Intranet or the Internet utilizing internet browsers. This space principally rotates around the way toward building applications and pages that sudden spike in demand for these programs. A portion of these applications may rely upon the worker on which you have fabricated them, while others may just use the worker in the underlying phase of their improvement for the capacity and recovery of information. The cycle of Web Development includes planning, content turn of events, and scripting for the web, alongside security setups. 
+
 
 Who are Web Developers? 
 
@@ -15,8 +17,6 @@ Web Developers are experts who construct sites that can be gotten to and utilize
 These experts, consequently, need specialized and realistic abilities to assemble sites of explicit plans. They are needed to create sites with great UI, which is both practical and intuitive, catching clients' eye. The sites should fulfil the clients' needs to keep them intrigued and convince them to go for the items or administrations offered by these sites. 
 
 To obtain the abilities important to turn into a Web Developer, you should enroll in <a href="https://intellipaat.com/course-cat/website-development-courses/">Web Development Courses from Intellipaat</a>. Join today and get a lift in your career! 
-
-Up until this point, you found out about the different segments of a site. To turn into an expert in this area, you need to have backend and frontend abilities. Presently, in this Web Development instructional exercise, we will run over the abilities engaged with mastering Web Development 
 
 
 Backend Web Development:

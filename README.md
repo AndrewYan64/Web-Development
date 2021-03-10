@@ -1,16 +1,16 @@
-# Web-Development
+# Web-Development for starters
 
 Where to start if you are into web development?
 
 The <a href="https://intellipaat.com/blog/web-development-tutorial/">'Internet Development Tutorial: A Beginner's Guide'</a> blog will help you acquire information on the following: 
 
 
-What is Web Development? 
+1) What is Web Development? 
 
 Web Development permits you to create sites that are facilitated through the Intranet or the Internet utilizing internet browsers. This space principally rotates around the way toward building applications and pages that sudden spike in demand for these programs. A portion of these applications may rely upon the worker on which you have fabricated them, while others may just use the worker in the underlying phase of their improvement for the capacity and recovery of information. The cycle of Web Development includes planning, content turn of events, and scripting for the web, alongside security setups. 
 
 
-Who are Web Developers? 
+2) Who are Web Developers? 
 
 Web Developers are experts who construct sites that can be gotten to and utilized through the World Wide Web (www). They utilize diverse programming dialects, alongside a few conventions, to construct these sites and interface with likely clients around the planet. 
 
@@ -19,7 +19,7 @@ These experts, consequently, need specialized and realistic abilities to assembl
 To obtain the abilities important to turn into a Web Developer, you should enroll in <a href="https://intellipaat.com/course-cat/website-development-courses/">Web Development Courses from Intellipaat</a>. Join today and get a lift in your career! 
 
 
-Backend Web Development:
+3) Backend Web Development:
 
 The point of this backend Web Development instructional exercise is to assist you with understanding the powerful association that is shaped between the frontend of a site and the data set or the backend. To be a specialist in this, you ought to have abilities in probably some Web Development Languages like PHP, Java, or Python, alongside information on NodeJS or other worker side systems. 
 
@@ -30,7 +30,7 @@ Java: This is a significant level, open-source programming language that follows
 Python: Python is an item arranged, open-source language utilized by most web and programming designers around the planet. It is a simple language to learn and actualize while building a site, which makes it the most favoured language too. 
 
 
-Frontend Web Development:
+4) Frontend Web Development:
 
 This frontend Web Development instructional exercise is a subsection of the site improvement instructional exercise blog, wherein you will run over probably the most as often as possible utilized systems for the advancement of a site. JavaScript structures and CSS help in performing different capacities on a site. As opposed to beginning a program without any preparation, these structures help designers assemble code with prior JavaScript codes in it. 
 

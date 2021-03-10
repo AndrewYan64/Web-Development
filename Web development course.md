@@ -16,7 +16,7 @@ Web Developers are experts who construct sites that can be gotten to and utilize
 
 These experts, consequently, need specialized and realistic abilities to assemble sites of explicit plans. They are needed to create sites with great UI, which is both practical and intuitive, catching clients' eye. The sites should fulfil the clients' needs to keep them intrigued and convince them to go for the items or administrations offered by these sites. 
 
-To obtain the abilities important to turn into a Web Developer, you should enroll in one of the curated<a href="https://intellipaat.com/course-cat/website-development-courses/">Web Development Courses from Intellipaat</a>. Join today and get a lift in your career! 
+To obtain the abilities important to turn into a Web Developer, you should enroll in one of the curated <a href="https://intellipaat.com/course-cat/website-development-courses/">Web Development Courses from Intellipaat</a>. Join today and get a lift in your career! 
 
 
 3) Backend Web Development:

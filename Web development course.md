@@ -2,7 +2,7 @@
 
 Where to start if you are into web development?
 
-The <a href="https://intellipaat.com/blog/web-development-tutorial/">'Web Development Tutorial</a> : A Beginner's Guide' blog will help you acquire information on the following: 
+The '<a href="https://intellipaat.com/blog/web-development-tutorial/">Web Development Tutorial</a> : A Beginner's Guide' blog will help you acquire information on the following: 
 
 
 1) What is Web Development? 
